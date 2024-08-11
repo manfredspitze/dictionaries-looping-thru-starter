@@ -30,7 +30,7 @@
 - Using VS Code editor
 - Have your script search for a specific value in the dictionary
 - Create a dictionary with four (4) key:value pairs; each key:value pair should represent the **book's author** (the key) and the **book's title** (the value)
-- Search the dictionary for a specific author using the `input()` function and an if statement
+- Search the dictionary for a specific author using the `input()` function, the `in` membership operator and an `if` statement
 - Tell the user if the specific author is present in the dictionary (or not)
 - Work with your assigned partner to write the code
 
