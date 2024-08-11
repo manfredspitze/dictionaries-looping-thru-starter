@@ -21,17 +21,17 @@
 
 ### Station 2
 - Using VS Code editor
-- *Modify your script using the `keys()` method so only the keys from your dictionary print.*
+- *Modify your script using the `keys()` method so only the keys from your dictionary print*
 - Work with your assigned partner to write the code
 
 ---
 
 ### Station 3
 - Using VS Code editor
-- *Add to your script so it searches for a specific value in your dictionary.  Use a `for` loop and an if statement to do this.*
-- Use the `values()` method with your dictionary
+- Have your script search for a specific value in the dictionary
 - Create a dictionary with four (4) key:value pairs; each key:value pair should represent the **book's author** (the key) and the **book's title** (the value)
-- Search the dictionary for a specific author using the `input()` function and an if statement; tell the user if that author is present in the dictionary (or not)
+- Search the dictionary for a specific author using the `input()` function and an if statement
+- Tell the user if the specific author is present in the dictionary (or not)
 - Work with your assigned partner to write the code
 
 ---
