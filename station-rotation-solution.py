@@ -36,6 +36,26 @@ else:
 
 
 # Station 3
+# Create a dictionary with student names and exam scores
+student_scores = {
+    "Alice": 92,
+    "Bob": 85,
+    "Charlie": 78,
+    "David": 95,
+    "Emily": 88
+}
+
+# Print each student's name and score
+for student, score in student_scores.items():
+    print(f"{student} got a score of {score}.")
+
+# Calculate the class average
+total_scores = sum(student_scores.values())
+num_students = len(student_scores)
+average_score = total_scores / num_students
+
+# Print the class average
+print(f"The class average is {average_score:.2f}.")
 
 
 
