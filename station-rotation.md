@@ -1,8 +1,10 @@
 # Station Rotation
-## Topic
+## Looping Through Python Dictionaries
 
 ### Directions
 Complete the stations in order.
+
+Be prepared to discuss your work today with your teacher and the rest of the class.
 
 ---
 
